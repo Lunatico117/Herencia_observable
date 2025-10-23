@@ -21,6 +21,8 @@ Este proyecto es un ejercicio de práctica para aplicar varios conceptos de prog
 
 ## Evidencia de funcionamiento a través de la terminal
 En la siguiente imagen se puede ver la creación de un objeto `Gato` con sus atributos:
+
+
 <img width="322" height="219" alt="Creación de un gato en la terminal" src="https://github.com/user-attachments/assets/6f70953d-0e90-4bfe-ae3e-3fb41f5e4de3" />
 
 ## Evidencia de base de datos a través de la terminal
